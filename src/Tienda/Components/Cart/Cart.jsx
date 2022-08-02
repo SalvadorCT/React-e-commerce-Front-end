@@ -3,7 +3,7 @@ import { CartContext } from '../../../Context/CartContext';
 import { CarroCate } from './CarroCate';
 import OverlayTrigger from 'react-bootstrap/OverlayTrigger';
 import Popover from 'react-bootstrap/Popover';
-import  Button from 'react-bootstrap/Button';
+// import  Button from 'react-bootstrap/Button';
 import { Link } from 'react-router-dom';
 import './Style.css'
 import { CartItems } from './CartItems';
