@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-e-commerce-Front-end/static/css/main.425050ba.css",
+    "main.js": "/React-e-commerce-Front-end/static/js/main.997a7962.js",
+    "static/media/error.png": "/React-e-commerce-Front-end/static/media/error.72be95a15233d979a7bc.png",
+    "static/media/cmr.png": "/React-e-commerce-Front-end/static/media/cmr.bfb0bb6e6233c772d71e.png",
+    "static/media/TeletubiesStore.jpg": "/React-e-commerce-Front-end/static/media/TeletubiesStore.6bc6dcf74efb7d5203de.jpg",
+    "static/media/slick.svg": "/React-e-commerce-Front-end/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/React-e-commerce-Front-end/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/React-e-commerce-Front-end/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/React-e-commerce-Front-end/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/React-e-commerce-Front-end/index.html",
+    "main.425050ba.css.map": "/React-e-commerce-Front-end/static/css/main.425050ba.css.map",
+    "main.997a7962.js.map": "/React-e-commerce-Front-end/static/js/main.997a7962.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.425050ba.css",
+    "static/js/main.997a7962.js"
+  ]
+}

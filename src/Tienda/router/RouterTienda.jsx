@@ -1,4 +1,4 @@
-import { Routes, Route } from "react-router-dom";
+import { Routes, Route } from "react-Router-dom";
 import { AddCategoria } from "../Components/Admin/AddCategoria";
 import { AddProduct } from "../Components/Admin/AddProduct";
 import { AdminDashboard } from "../Components/Admin/AdminDashboard";

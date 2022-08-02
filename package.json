@@ -1,4 +1,5 @@
 {
+  "homepage": "http://SalvadorCT.github.io/React-e-commerce-Front-end",
   "name": "proyectofinaldiplo",
   "version": "0.1.0",
   "private": true,
@@ -16,6 +17,7 @@
     "axios": "^0.27.2",
     "bootstrap": "^5.2.0-beta1",
     "firebase": "^9.9.0",
+    "gh-pages": "^4.0.0",
     "mui-datatables": "^4.2.2",
     "react": "^18.2.0",
     "react-bootstrap": "^2.4.0",
@@ -31,6 +33,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
